@@ -3,16 +3,13 @@
 Creacion de Portales Web con Django | Despliega tu proyecto onClolud
 
 
-En una primera fase te ensenaremos a programar con Python desde cero, no necesitas tener conocimientos previos, tener en cuenta que todo el desarrollo se llevara a cabo en un ambiente windows, estos seran algunos de los temas que veremos en este curso:
+En una primera fase te ensenaremos a programar con Python desde cero, no necesitas tener conocimientos previos, tener en cuenta que todo el desarrollo se llevara a cabo en un ambiente windows:
 - Sintaxis del lenguaje de programacion, creando variables, implementando condicionales, bucles, funciones
 - Programacion Orientada a objetos con Python
 - Manejo de Ficheros y Archivos
 - Trabajar con bases de datos y Python
 
-En una segunda parte del bootcamp te ensenaremos desde cero como crear paginas estaticas con html, css y javascript.
-Y para complementar todos estos conocimientos construiremos  un proyecto web clone de Twitter.
-
-En una tercera parte del curso nos enfocaremos en desarrollar proyectos web usando para esto el poderoso framework de Django, aqui veremos estos temas:
+En una segunda parte nos enfocaremos en desarrollar proyectos web usando para esto el poderoso framework de Django, aqui veremos estos temas:
 - Creacion de proyectos Web con Django
 - Manejo de Bases de Datos y consultas
 - Creacion de usuarios y manejo de roles
